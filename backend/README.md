@@ -18,7 +18,8 @@ This is a backend application built with **Express.js** and **Bull** for managin
 
 ## Demo
 
-[Include a link to the demo if available]
+![image](https://github.com/user-attachments/assets/99a7238c-0a4c-489a-9aae-46851f9d5442)
+
 
 ## Installation
 
@@ -36,4 +37,4 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/your-username/task-queue-api.git
    cd task-queue-api
-
+```
