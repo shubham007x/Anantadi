@@ -71,6 +71,8 @@ This is a backend application built with **Express.js** and **Bull** for managin
 ## Demo
 
 ![image](https://github.com/user-attachments/assets/99a7238c-0a4c-489a-9aae-46851f9d5442)
+![image](https://github.com/user-attachments/assets/9b32df26-f459-409c-8e96-1fbf18a71df9)
+
 
 
 ## Installation
