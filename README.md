@@ -1,5 +1,8 @@
 # Anantadi
 # Video Cropping Tool
+![image](https://github.com/user-attachments/assets/9b0f15e7-ebe2-4dd7-a5f6-85129ec3aa5f)
+![image](https://github.com/user-attachments/assets/2f03c60d-f704-4e10-89af-d4b86cec946f)
+
 
 This is a **Video Cropping Tool** built with **React** that allows users to crop videos by selecting start and end times. It includes a timeline slider for selecting the crop range, a video player to preview the video, and a button to toggle between light and dark modes.
 
