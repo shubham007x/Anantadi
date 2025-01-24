@@ -42,7 +42,12 @@ Follow the steps below to set up the project locally:
    git clone https://github.com/your-username/video-cropping-tool.git
    cd video-cropping-tool
    ```
------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------  
+
+
+
+
+        
 
 
 # Express.js Task Queue API with Bull
