@@ -1,5 +1,4 @@
 # Anantadi
-# Anantadi
 # Video Cropping Tool
 ![image](https://github.com/user-attachments/assets/9b0f15e7-ebe2-4dd7-a5f6-85129ec3aa5f)
 ![image](https://github.com/user-attachments/assets/2f03c60d-f704-4e10-89af-d4b86cec946f)
